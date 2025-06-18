@@ -8,7 +8,7 @@ I have been learning to code for 3 years since I switched my career path to tech
 
 *   🌍  I'm based in Kenya
 *   ✉️  You can contact me at [okeyoashley@gmail.com](mailto:okeyoashley@gmail.com)
-*   🧠  I'm learning MySQL
+*   🧠  I'm learning C
 *   🤝  I'm open to collaborating on Basic projects
 *   ⚡  I love watching movies majorly comedy 😊
 *   ### Skills 
